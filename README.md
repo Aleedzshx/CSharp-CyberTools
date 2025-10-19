@@ -6,4 +6,5 @@ Platform where you learn through hands-on practice in safe environments, both of
 
 It was a lot of fun and I gained valuable concepts, but now I want to focus on solidifying the fundamentals so I can start university with a strong base. I’ll continue studying some topics later — especially advanced offensive and defensive strategy.
 
-Next steps: strengthen my Python skills, terminal/Linux commands, and networking fundamentals to get more out of TryHackMe challenges.
+Next steps: strengthen my Python skills, terminal/Linux commands, and networking fundamentals to get more out of TryHackMe challenges. ......
+
