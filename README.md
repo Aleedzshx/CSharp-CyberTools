@@ -1,5 +1,4 @@
-# CSharp-CyberTools
-Educational C# tools for cybersecurity: port scanning, encryption, and log parsing. Part of my bilingual portfolio for international visibility
+**CyberTools**
 
 **TryHackMe** 
 
@@ -9,3 +8,6 @@ It was a lot of fun and I gained valuable concepts, but now I want to focus on s
 
 Next steps: Strengthen my Python skills, terminal/Linux commands, and networking fundamentals to maximize the benefits of TryHackMe challenges.
 
+**SENA: Mitigation and Prevention of Cybersecurity Threats**  
+
+I haven't found these classes very engaging; I expected more practical sessions, but so far, they have been mostly theoretical. I have already submitted and completed two activities from the first module, which included creating an infographic and a questionnaire. So far, nothing surprising—just some basic content.
